@@ -1,0 +1,22 @@
+.zhu-pic-carousel-form {
+    max-height:500px;
+    overflow-y: scroll;
+}
+
+.zhu-pci-widget-settings-sub {
+    text-align:right;
+}
+
+.zhu-pci-widget-settings-sub-input {
+    display:inline !important;
+}
+
+.zhu-pic-carousel-form .CodeMirror {
+    border: 1px solid #e5e5e5;
+}
+
+
+.zhu-pic-numeric-input-validator {
+    color:red;
+}
+
